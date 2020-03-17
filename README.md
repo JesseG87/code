@@ -19,3 +19,5 @@ git push (save to github)<br>
 -publish or share to gitgub<br>
 log<br>
 general log for all the commits
+
+Say no to the Corona Virus!
